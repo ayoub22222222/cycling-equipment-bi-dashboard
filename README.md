@@ -22,3 +22,25 @@ This is an **end-to-end Power BI data analysis project** that focuses on the ful
 
 > 💡 This project simulates a real-world scenario for a **global manufacturing company** that produces cycling equipment, aimed at helping stakeholders monitor performance and make data-driven decisions.
 
+## 🗂️ Data Structure Overview
+
+The image below shows the **data model**, also referred to as a **normalized schema**.
+
+**Normalization** is the process of organizing tables and columns in a relational database to reduce data redundancy and improve data integrity.
+
+In general, a data model consists of two main types of tables:
+
+- **Fact Table**: Contains measurable metrics or quantitative data.
+  - In our case: `Sales Data` is the **fact table**.
+
+- **Dimension Tables**: Contain descriptive attributes related to the fact data.
+  - In our case:
+    - `Territory Lookup`
+    - `Customer Lookup`
+    - `Product Lookup`
+    - `Calendar Lookup`
+
+These dimension tables are connected to the fact table through **relationships**, forming a **star schema** structure that supports efficient slicing and dicing of data.
+
+![Data Model](assets/screenshots/data-model.PNG)
+
