@@ -44,3 +44,7 @@ These dimension tables are connected to the fact table through **relationships**
 
 ![Data Model](assets/screenshots/data-model.PNG)
 
+## 🗂️  Project Structure
+
+## Dashboard Preview
+
