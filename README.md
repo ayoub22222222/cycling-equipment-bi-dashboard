@@ -59,7 +59,7 @@ These dimension tables are connected to the fact table through **relationships**
 
 ## 📄 Report
 
-👉 [Click here to view the full report (PDF)](docs/Cycling Equipment Report.pdf)
+👉 [Click here to view the full report (PDF)](docs/'Cycling Equipment Report.pdf')
 
 ---
 
