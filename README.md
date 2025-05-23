@@ -48,3 +48,30 @@ These dimension tables are connected to the fact table through **relationships**
 
 ## Dashboard Preview
 
+![Dashboard Screenshot](assets/screenshots/screenshoot-report.PNG)
+
+---
+
+## 📽️ Demo Video
+
+[![Watch the demo](https://www.linkedin.com/feed/update/urn:li:activity:7331704016424292352/)
+
+
+## 📄 Report
+
+👉 [Click here to view the full report (PDF)](docs/Cycling Equipment Report.pdf)
+
+---
+
+## 🙋‍♂️ About Me
+
+**Mohammed Ayoub Essbai**
+Data Analyst | Power BI Enthusiast | Python Developer
+🔗 [LinkedIn](https://www.linkedin.com/in/mohammed-ayoub-essbai/)
+💻 [GitHub](https://github.com/ayoub22222222)
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License.
