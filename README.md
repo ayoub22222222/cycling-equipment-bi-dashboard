@@ -54,7 +54,7 @@ These dimension tables are connected to the fact table through **relationships**
 
 ## 📽️ Demo Video
 
-[![Watch the demo](https://www.linkedin.com/feed/update/urn:li:activity:7331704016424292352/)
+![Watch the demo](https://www.linkedin.com/feed/update/urn:li:activity:7331704016424292352/)
 
 
 ## 📄 Report
