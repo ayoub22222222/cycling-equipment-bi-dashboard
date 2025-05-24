@@ -66,7 +66,9 @@ These dimension tables are connected to the fact table through **relationships**
 ## 🙋‍♂️ About Me
 
 **Mohammed Ayoub Essbai**
+
 Data Analyst | Power BI Enthusiast | Python Developer
+
 🔗 [LinkedIn](https://www.linkedin.com/in/mohammed-ayoub-essbai/)
 💻 [GitHub](https://github.com/ayoub22222222)
 
