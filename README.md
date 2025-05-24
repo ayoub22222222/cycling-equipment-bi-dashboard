@@ -59,7 +59,7 @@ These dimension tables are connected to the fact table through **relationships**
 
 ## 📄 Report
 
-👉 [Click here to view the full report (PDF)](docs/'Cycling Equipment Report.pdf')
+👉 [Click here to view the full report (PDF)](docs/Cycling-Equipment-Report.pdf)
 
 ---
 
@@ -70,6 +70,7 @@ These dimension tables are connected to the fact table through **relationships**
 Data Analyst | Power BI Enthusiast | Python Developer
 
 🔗 [LinkedIn](https://www.linkedin.com/in/mohammed-ayoub-essbai/)
+
 💻 [GitHub](https://github.com/ayoub22222222)
 
 ---
